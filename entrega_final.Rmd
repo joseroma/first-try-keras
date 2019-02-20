@@ -9,6 +9,8 @@ output:
     code_folding: hide
     toc: true
     toc_float: true
+    df_print: paged
+    theme: simplex
 ---
 
 ```{r setup, include=FALSE}
